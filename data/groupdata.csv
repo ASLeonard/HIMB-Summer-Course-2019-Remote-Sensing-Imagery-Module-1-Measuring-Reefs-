@@ -1,0 +1,425 @@
+"","reef_no","replicate","perimeter_m","area_m2","diam_longest_m","diam_perpendic_m","imagery_resolution_m","date","method","platform","imagery_type","provider","instrument","observer","notes"
+"1",19,1,101.7,808.0382813,NA,NA,NA,20190521,"field","boat",NA,NA,"transect tape","SF",NA
+"2",19,2,113.04,998.2845,"36",NA,NA,20190521,"field","boat",NA,NA,"transect tape","SF",NA
+"3",19,3,84.78,561.5350313,NA,"27",NA,20190521,"field","boat",NA,NA,"transect tape","SF",NA
+"4",19,1,121,1111,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","SF",NA
+"5",19,2,119,1092,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","SF",NA
+"6",19,3,116,1047,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","SF",NA
+"7",19,1,138,1425,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","SF",NA
+"8",19,2,136,1432,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","SF",NA
+"9",19,3,132,1336,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","SF",NA
+"10",19,1,116,1028,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","SF",NA
+"11",19,2,118,1064,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","SF",NA
+"12",19,3,116,1031,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","SF",NA
+"13",19,1,126,1209,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","SF",NA
+"14",19,2,118,1071,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","SF",NA
+"15",19,3,124,1186,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","SF",NA
+"16",19,1,145.9,1540,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","SF",NA
+"17",19,2,128.17,1120,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","SF",NA
+"18",19,3,132.81,1260,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","SF",NA
+"19",19,1,115.02,1200,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","SF",NA
+"20",19,2,97.6,530.6,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","SF",NA
+"21",19,3,92.46,665.6,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","SF",NA
+"22",19,1,356.79,9980,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","SF",NA
+"23",19,2,350.55,1034,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","SF",NA
+"24",19,3,366.6,1015,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","SF",NA
+"25",19,1,417.79,16200,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","SF",NA
+"26",19,2,447.6,1345,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","SF",NA
+"27",19,3,440.6,1311,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","SF",NA
+"28",16,1,186,2702.8125,NA,NA,NA,20190521,"field","boat",NA,NA,"transect tape","SF",NA
+"29",16,2,188.4,2773.0125,"60",NA,NA,20190521,"field","boat",NA,NA,"transect tape","SF",NA
+"30",16,3,178.98,2502.643781,NA,"57",NA,20190521,"field","boat",NA,NA,"transect tape","SF",NA
+"31",16,1,197,3017,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","SF",NA
+"32",16,2,198,3025,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","SF",NA
+"33",16,3,197,2989,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","SF",NA
+"34",16,1,207,3284,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","SF",NA
+"35",16,2,207,3297,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","SF",NA
+"36",16,3,207,3345,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","SF",NA
+"37",16,1,200,3084,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","SF",NA
+"38",16,2,198,3034,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","SF",NA
+"39",16,3,192,2849,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","SF",NA
+"40",16,1,199,3035,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","SF",NA
+"41",16,2,217,3614,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","SF",NA
+"42",16,3,194,2884,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","SF",NA
+"43",16,1,150.53,1630,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","SF",NA
+"44",16,2,211.26,3380,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","SF",NA
+"45",16,3,214.73,3720,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","SF",NA
+"46",16,1,114.41,3701,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","SF",NA
+"47",16,2,200.7,3170,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","SF",NA
+"48",16,3,217,3480,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","SF",NA
+"49",16,1,287.33,7050,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","SF",NA
+"50",16,2,286.2,6010,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","SF",NA
+"51",16,3,285.19,6240,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","SF",NA
+"52",16,1,391.79,13220,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","SF",NA
+"53",16,2,317.5,6170,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","SF",NA
+"54",16,3,346.4,1074,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","SF",NA
+"55",12,1,416,13346,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","SF",NA
+"56",12,2,418,13497,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","SF",NA
+"57",12,3,416,13414,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","SF",NA
+"58",12,1,392,11827,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","SF",NA
+"59",12,2,399,12215,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","SF",NA
+"60",12,3,383,11461,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","SF",NA
+"61",12,1,371,10659,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","SF",NA
+"62",12,2,368,10541,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","SF",NA
+"63",12,3,370,10621,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","SF",NA
+"64",12,1,381,11278,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","SF",NA
+"65",12,2,392,11951,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","SF",NA
+"66",12,3,388,11651,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","SF",NA
+"67",12,1,393.57,12800,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","SF",NA
+"68",12,2,420.46,12720,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","SF",NA
+"69",12,3,413.75,12710,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","SF",NA
+"70",12,1,373.8,11940,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","SF",NA
+"71",12,2,401,12480,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","SF",NA
+"72",12,3,395.25,11440,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","SF",NA
+"73",12,1,444.7,15350,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","SF",NA
+"74",12,2,403.45,13140,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","SF",NA
+"75",12,3,434.11,12990,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","SF",NA
+"76",12,1,498.53,21650,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","SF",NA
+"77",12,2,506.24,17150,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","SF",NA
+"78",12,3,518.38,21180,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","SF",NA
+"79",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82",12,1,363.5,10533,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","ASL",NA
+"83",12,2,368.5,10823,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","ASL",NA
+"84",12,3,369.8,10902,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","ASL",NA
+"85",12,1,354.6,10024,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","ASL",NA
+"86",12,2,348,9655,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","ASL",NA
+"87",12,3,372.4,11061,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","ASL",NA
+"88",12,1,363.4,10528,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","ASL",NA
+"89",12,2,366,10680,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","ASL",NA
+"90",12,3,361.8,10439,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","ASL",NA
+"91",12,1,365,10627,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","ASL",NA
+"92",12,2,375.6,11248,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","ASL",NA
+"93",12,3,365.3,10642,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","ASL",NA
+"94",12,1,356.1,10470,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","ASL",NA
+"95",12,2,360.6,10220,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","ASL",NA
+"96",12,3,359,10380,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","ASL",NA
+"97",12,1,361.6,10360,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","ASL",NA
+"98",12,2,359,10600,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","ASL",NA
+"99",12,3,352,10390,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","ASL",NA
+"100",12,1,390,11920,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","ASL",NA
+"101",12,2,358,10420,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","ASL",NA
+"102",12,3,402,10000,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","ASL",NA
+"103",12,1,407,11620,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","ASL",NA
+"104",12,2,400,13100,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","ASL",NA
+"105",12,3,390,12400,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","ASL",NA
+"106",16,1,178.8,2545.33757961783,NA,NA,0,NA,"field","boat",NA,NA,"transect tape","ASL",NA
+"107",16,2,185.574,2741.85585,"59.1",NA,0,NA,"field","boat",NA,NA,"transect tape","ASL",NA
+"108",16,3,176.468,2479.3754,NA,"56.2",0,NA,"field","boat",NA,NA,"transect tape","ASL",NA
+"109",16,1,181,2614,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","ASL",NA
+"110",16,2,190,2907,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","ASL",NA
+"111",16,3,185.6,2745,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","ASL",NA
+"112",16,1,198,3127,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","ASL",NA
+"113",16,2,201.7,3244,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","ASL",NA
+"114",16,3,187,2793,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","ASL",NA
+"115",16,1,174.5,2427,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","ASL",NA
+"116",16,2,184.5,2716,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","ASL",NA
+"117",16,3,183.4,2680,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","ASL",NA
+"118",16,1,185.6,2747,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","ASL",NA
+"119",16,2,192,2952,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","ASL",NA
+"120",16,3,193,2975,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","ASL",NA
+"121",16,1,170,2680,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","ASL",NA
+"122",16,2,177.4,2470,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","ASL",NA
+"123",16,3,182.6,2710,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","ASL",NA
+"124",16,1,175,2470,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","ASL",NA
+"125",16,2,177,2280,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","ASL",NA
+"126",16,3,181,2620,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","ASL",NA
+"127",16,1,195,2330,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","ASL",NA
+"128",16,2,200,2100,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","ASL",NA
+"129",16,3,191,2460,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","ASL",NA
+"130",16,1,205,4000,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","ASL",NA
+"131",16,2,178,3000,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","ASL",NA
+"132",16,3,193,2320,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","ASL",NA
+"133",19,1,103.8,857.837579617834,NA,NA,0,NA,"field","boat",NA,NA,"transect tape","ASL",NA
+"134",19,2,94.2,706.5,"30",NA,0,NA,"field","boat",NA,NA,"transect tape","ASL",NA
+"135",19,3,103.62,854.865,NA,"33",0,NA,"field","boat",NA,NA,"transect tape","ASL",NA
+"136",19,1,108.6,941,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","ASL",NA
+"137",19,2,109.43,955,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","ASL",NA
+"138",19,3,106,897,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","ASL",NA
+"139",19,1,104.9,876.9,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","ASL",NA
+"140",19,2,106.2,899,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","ASL",NA
+"141",19,3,110.9,979,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","ASL",NA
+"142",19,1,107.4,919,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","ASL",NA
+"143",19,2,108.6,940,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","ASL",NA
+"144",19,3,102.47,838,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","ASL",NA
+"145",19,1,123.8,1222,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","ASL",NA
+"146",19,2,118.8,1125,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","ASL",NA
+"147",19,3,117.9,1108,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","ASL",NA
+"148",19,1,126.2,1440,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","ASL",NA
+"149",19,2,117.3,1760,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","ASL",NA
+"150",19,3,117.6,1030,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","ASL",NA
+"151",19,1,146.3,1250,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","ASL",NA
+"152",19,2,107.4,1130,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","ASL",NA
+"153",19,3,98,1220,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","ASL",NA
+"154",19,1,110,733,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","ASL",NA
+"155",19,2,99,926,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","ASL",NA
+"156",19,3,94,1050,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","ASL",NA
+"157",19,1,120,1147,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","ASL",NA
+"158",19,2,115,1053,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","ASL",NA
+"159",19,3,90,645,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","ASL",NA
+"160",19,1,116,1028,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","AC",NA
+"161",19,2,114,1011,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","AC",NA
+"162",19,3,115,1020,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","AC",NA
+"163",19,1,119,1086,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","AC",NA
+"164",19,2,122,1156,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","AC",NA
+"165",19,3,109,945,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","AC",NA
+"166",19,1,110,926,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","AC",NA
+"167",19,2,109,923,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","AC",NA
+"168",19,3,114,1007,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","AC",NA
+"169",19,1,119,1106,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","AC",NA
+"170",19,2,112,986,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","AC",NA
+"171",19,3,122,1159,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","AC",NA
+"172",19,1,150,1850,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","AC",NA
+"173",19,2,150,1850,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","AC",NA
+"174",19,3,144,1610,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","AC",NA
+"175",19,1,124,1210,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","AC",NA
+"176",19,2,126,1170,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","AC",NA
+"177",19,3,129,1230,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","AC",NA
+"178",19,1,110,897,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","AC",NA
+"179",19,2,122,1040,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","AC",NA
+"180",19,3,118,1050,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","AC",NA
+"181",19,1,172,2000,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","AC",NA
+"182",19,2,232,3800,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","AC",NA
+"183",19,3,211,3350,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","AC",NA
+"184",16,1,197,2916,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","AC",NA
+"185",16,2,193,2871,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","AC",NA
+"186",16,3,196,2944,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","AC",NA
+"187",16,1,194,2890,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","AC",NA
+"188",16,2,199,3072,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","AC",NA
+"189",16,3,200,3115,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","AC",NA
+"190",16,1,189,2777,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","AC",NA
+"191",16,2,190,2785,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","AC",NA
+"192",16,3,190,2819,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","AC",NA
+"193",16,1,192,2865,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","AC",NA
+"194",16,2,192,2826,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","AC",NA
+"195",16,3,191,2812,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","AC",NA
+"196",16,1,181,2970,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","AC",NA
+"197",16,2,193,2790,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","AC",NA
+"198",16,3,215,3420,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","AC",NA
+"199",16,1,207,3360,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","AC",NA
+"200",16,2,210,3310,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","AC",NA
+"201",16,3,229,4040,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","AC",NA
+"202",16,1,317,7530,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","AC",NA
+"203",16,2,259,4940,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","AC",NA
+"204",16,3,267,5400,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","AC",NA
+"205",16,1,225,3740,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","AC",NA
+"206",16,2,351,9300,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","AC",NA
+"207",16,3,294,6560,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","AC",NA
+"208",12,1,387,11446,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","AC",NA
+"209",12,2,382,11322,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","AC",NA
+"210",12,3,381,11203,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","AC",NA
+"211",12,1,371,10561,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","AC",NA
+"212",12,2,375,10390,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","AC",NA
+"213",12,3,378,11017,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","AC",NA
+"214",12,1,372,10675,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","AC",NA
+"215",12,2,372,11655,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","AC",NA
+"216",12,3,365,10321,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","AC",NA
+"217",12,1,374,10852,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","AC",NA
+"218",12,2,383,11418,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","AC",NA
+"219",12,3,384,11347,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","AC",NA
+"220",12,1,383,11180,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","AC",NA
+"221",12,2,396,12100,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","AC",NA
+"222",12,3,395,11830,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","AC",NA
+"223",12,1,373,12570,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","AC",NA
+"224",12,2,348,9200,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","AC",NA
+"225",12,3,375,10870,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","AC",NA
+"226",12,1,420,13340,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","AC",NA
+"227",12,2,429,14000,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","AC",NA
+"228",12,3,401,12140,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","AC",NA
+"229",12,1,447,14990,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","AC",NA
+"230",12,2,473,16910,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","AC",NA
+"231",12,3,453,15190,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","AC",NA
+"232",12,1,391,11969,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","NH",NA
+"233",12,2,394,12127,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","NH",NA
+"234",12,3,415,13023,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","NH",NA
+"235",12,1,386,11419,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","NH",NA
+"236",12,2,371,10669,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","NH",NA
+"237",12,3,374,10841,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","NH",NA
+"238",12,1,373,10812,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","NH",NA
+"239",12,2,383,11403,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","NH",NA
+"240",12,3,403,12381,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","NH",NA
+"241",12,1,401,12539,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","NH",NA
+"242",12,2,395,12167,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","NH",NA
+"243",12,3,386,11529,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","NH",NA
+"244",12,1,459,12220,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","NH",NA
+"245",12,2,403,13790,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","NH",NA
+"246",12,3,378,12440,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","NH",NA
+"247",12,1,448,12560,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","NH",NA
+"248",12,2,393,11840,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","NH",NA
+"249",12,3,412,11820,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","NH",NA
+"250",12,1,387,11050,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","NH",NA
+"251",12,2,404,13930,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","NH",NA
+"252",12,3,411,11400,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","NH",NA
+"253",12,1,416,12910,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","NH",NA
+"254",12,2,398,12850,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","NH",NA
+"255",12,3,408,12480,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","NH",NA
+"256",16,1,226,3953,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","NH",NA
+"257",16,2,221,3817,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","NH",NA
+"258",16,3,218,3713,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","NH",NA
+"259",16,1,222,3848,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","NH",NA
+"260",16,2,226,3976,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","NH",NA
+"261",16,3,217,3675,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","NH",NA
+"262",16,1,205,3250,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","NH",NA
+"263",16,2,217,3676,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","NH",NA
+"264",16,3,221,3760,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","NH",NA
+"265",16,1,229,4077,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","NH",NA
+"266",16,2,227,4018,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","NH",NA
+"267",16,3,220,3738,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","NH",NA
+"268",16,1,253,3560,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","NH",NA
+"269",16,2,224,3440,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","NH",NA
+"270",16,3,213,3270,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","NH",NA
+"271",16,1,220,3560,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","NH",NA
+"272",16,2,216,3720,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","NH",NA
+"273",16,3,212,3000,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","NH",NA
+"274",16,1,225,3510,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","NH",NA
+"275",16,2,216,3130,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","NH",NA
+"276",16,3,203,3250,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","NH",NA
+"277",16,1,200,3030,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","NH",NA
+"278",16,2,194,3430,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","NH",NA
+"279",16,3,218,2920,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","NH",NA
+"280",19,1,140,1478,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","NH",NA
+"281",19,2,139,1517,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","NH",NA
+"282",19,3,138,1478,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","NH",NA
+"283",19,1,142,1577,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","NH",NA
+"284",19,2,135,1424,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","NH",NA
+"285",19,3,133,1385,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","NH",NA
+"286",19,1,136,1434,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","NH",NA
+"287",19,2,123,1148,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","NH",NA
+"288",19,3,134,1261,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","NH",NA
+"289",19,1,146,1643,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","NH",NA
+"290",19,2,136,1430,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","NH",NA
+"291",19,3,131,1350,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","NH",NA
+"292",19,1,136,1660,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","NH",NA
+"293",19,2,140,1440,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","NH",NA
+"294",19,3,140,1530,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","NH",NA
+"295",19,1,117,1800,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","NH",NA
+"296",19,2,139,1420,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","NH",NA
+"297",19,3,134,1390,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","NH",NA
+"298",19,1,126,1440,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","NH",NA
+"299",19,2,120,1380,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","NH",NA
+"300",19,3,123,1290,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","NH",NA
+"301",19,1,131,1420,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","NH",NA
+"302",19,2,126,1140,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","NH",NA
+"303",19,3,120,1210,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","NH",NA
+"304",16,1,189.92,2743.42,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","TJQ",NA
+"305",16,2,193.14,2888.12,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","TJQ",NA
+"306",16,3,189.05,2765.83,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","TJQ",NA
+"307",16,1,182.91,2518.47,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","TJQ",NA
+"308",16,2,186.45,2589.5,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","TJQ",NA
+"309",16,3,189.12,2626.3,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","TJQ",NA
+"310",16,1,185.06,2585.93,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","TJQ",NA
+"311",16,2,194.04,2823.95,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","TJQ",NA
+"312",16,3,198.53,2926.83,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","TJQ",NA
+"313",16,1,180.73,2454.2,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","TJQ",NA
+"314",16,2,191.24,2644.79,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","TJQ",NA
+"315",16,3,182.06,2506.58,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","TJQ",NA
+"316",16,1,212.69,3400,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","TJQ",NA
+"317",16,2,206.14,3410,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","TJQ",NA
+"318",16,3,218.93,3430,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","TJQ",NA
+"319",16,1,202.82,3140,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","TJQ",NA
+"320",16,2,206.11,3210,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","TJQ",NA
+"321",16,3,215.17,3260,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","TJQ",NA
+"322",16,1,293.02,7030,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","TJQ",NA
+"323",16,2,287.24,6780,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","TJQ",NA
+"324",16,3,309.4,6920,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","TJQ",NA
+"325",16,1,281.66,7740,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","TJQ",NA
+"326",16,2,289.55,7640,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","TJQ",NA
+"327",16,3,293.93,7280,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","TJQ",NA
+"328",19,1,111.31,931.06,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","TJQ",NA
+"329",19,2,108.82,910.27,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","TJQ",NA
+"330",19,3,111.06,948.35,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","TJQ",NA
+"331",19,1,111.27,895.95,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","TJQ",NA
+"332",19,2,113.64,954.6,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","TJQ",NA
+"333",19,3,115.58,957.96,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","TJQ",NA
+"334",19,1,113.48,927.1,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","TJQ",NA
+"335",19,2,108.09,908.19,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","TJQ",NA
+"336",19,3,112.62,951.33,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","TJQ",NA
+"337",19,1,108.45,862.23,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","TJQ",NA
+"338",19,2,111.15,951.66,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","TJQ",NA
+"339",19,3,114.61,965.79,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","TJQ",NA
+"340",19,1,196.96,2270,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","TJQ",NA
+"341",19,2,187.11,2640,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","TJQ",NA
+"342",19,3,183.21,2590,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","TJQ",NA
+"343",19,1,155.63,2220,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","TJQ",NA
+"344",19,2,171.3,2460,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","TJQ",NA
+"345",19,3,168.08,2450,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","TJQ",NA
+"346",19,1,170.39,2210,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","TJQ",NA
+"347",19,2,179.43,2790,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","TJQ",NA
+"348",19,3,180.74,2210,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","TJQ",NA
+"349",19,1,NA,NA,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","TJQ",NA
+"350",19,2,NA,NA,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","TJQ",NA
+"351",19,3,NA,NA,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","TJQ",NA
+"352",12,1,396.68,11950.2,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","TJQ",NA
+"353",12,2,394.01,11912.19,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","TJQ",NA
+"354",12,3,398.4,12263.73,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","TJQ",NA
+"355",12,1,404.64,11917.33,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","TJQ",NA
+"356",12,2,385.21,10960.36,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","TJQ",NA
+"357",12,3,383.41,11229.67,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","TJQ",NA
+"358",12,1,372.75,10604.42,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","TJQ",NA
+"359",12,2,373.86,10497.13,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","TJQ",NA
+"360",12,3,372.19,10438.5,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","TJQ",NA
+"361",12,1,380.32,10847.51,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","TJQ",NA
+"362",12,2,375.45,10732.72,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","TJQ",NA
+"363",12,3,374.47,10660.05,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","TJQ",NA
+"364",12,1,418.76,12090,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","TJQ",NA
+"365",12,2,413.89,12710,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","TJQ",NA
+"366",12,3,409.33,12808,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","TJQ",NA
+"367",12,1,393.19,12280,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","TJQ",NA
+"368",12,2,404.86,12680,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","TJQ",NA
+"369",12,3,410.11,12000,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","TJQ",NA
+"370",12,1,387.77,11200,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","TJQ",NA
+"371",12,2,402.05,12640,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","TJQ",NA
+"372",12,3,397.76,12950,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","TJQ",NA
+"373",12,1,428.8,15040,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","TJQ",NA
+"374",12,2,464.65,15920,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","TJQ",NA
+"375",12,3,461.76,15720,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","TJQ",NA
+"376",19,1,143,946,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","MICG","PR19_0.15_01_MICG"
+"377",19,2,116,1002,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","MICG","PR19_0.15_02_MICG"
+"378",19,1,127.06,1069.22,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","MICG","PR19_0.5_01_MICG"
+"379",19,2,128,1246,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","MICG","PR19_0.5_02_MICG"
+"380",19,1,131.71,1310.75,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","MICG","PR19_1_01_MICG"
+"381",19,2,134,1319,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","MICG","PR19_1_02_MICG"
+"382",19,1,134.09,1218.99,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","MICG",NA
+"383",19,2,123.3,1137.32,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","MICG","PR19_2_2_MICG"
+"384",19,1,94.6,8462,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","MICG","PR19_2_01_MICG"
+"385",19,2,115.58,6310,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","MICG",NA
+"386",19,1,107.6,8864,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","MICG",NA
+"387",19,2,105,9880,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","MICG",NA
+"388",19,1,110.8,1050,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","MICG",NA
+"389",19,2,104,819,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","MICG",NA
+"390",19,1,99,682.2,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","MICG",NA
+"391",19,2,83,643.81,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","MICG",NA
+"392",16,1,268,2713,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","MICG","PR16_0.15_01_MICG"
+"393",16,2,199,2982,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","MICG","PR16_0.15_02_MICG"
+"394",16,1,234.54,3345.86,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","MICG","PR16_0.5_01_MICG"
+"395",16,2,236,4255,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","MICG","PR16_0.5_02_MICG"
+"396",16,1,201.2,2971.42,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","MICG","PR16_1_01_MICG"
+"397",16,2,198,2917,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","MICG","PR16_1_02_MICG"
+"398",16,1,218.17,3397.7,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","MICG","PR16_2_01_MICG"
+"399",16,2,215.1,3298,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","MICG","PR16_2_02_MICG"
+"400",16,1,198.52,3561,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","MICG",NA
+"401",16,2,190,3220,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","MICG",NA
+"402",16,1,198,3120,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","MICG",NA
+"403",16,2,189,3311,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","MICG",NA
+"404",16,1,194.13,3929,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","MICG",NA
+"405",16,2,208,3090,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","MICG",NA
+"406",16,1,187.2,3290,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","MICG",NA
+"407",16,2,181.28,3110,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","MICG",NA
+"408",12,1,456.94,12654.77,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","MICG","PR12_0.15_01_MICG"
+"409",12,2,419,13275,NA,NA,0.15,20130115,"imagery","Google Earth","aerial","unknown","unknown","MICG","PR12_0.15_02_MICG"
+"410",12,1,382.96,10782.91,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","MICG","PR12_0.5_01_MICG"
+"411",12,2,390,11638,NA,NA,0.5,20130822,"imagery","Google Earth","satellite","DigitalGlobe","WorldView-1/2, GeoEye-1, or Quickbird","MICG","PR12_0.5_02_MICG"
+"412",12,1,384.13,10761.04,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","MICG","PR12_1_01_MICG"
+"413",12,2,365,10122,NA,NA,1,20110108,"imagery","Google Earth","satellite","DigitalGlobe","Ikonos","MICG","PR12_1_02_MICG"
+"414",12,1,432.08,12026.25,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","MICG","PR12_2_01_MICG"
+"415",12,2,404,12136,NA,NA,2,20030412,"imagery","Google Earth","satellite","DigitalGlobe","EarlyBird-1 (not 100% sure)","MICG","PR12_2_02_MICG"
+"416",12,1,392.56,9830,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","MICG",NA
+"417",12,2,337.44,8670,NA,NA,3,20190316,"imagery","PlanetExplorer","satellite","Planet","PlanetScope (formerly Dove CubeSats)","MICG",NA
+"418",12,1,388.96,1140,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","MICG",NA
+"419",12,2,390,1059,NA,NA,5,20160208,"imagery","PlanetExplorer","satellite","Planet","RapidEye","MICG",NA
+"420",12,1,365.11,1128,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","MICG",NA
+"421",12,2,368,1042,NA,NA,10,20180307,"imagery","PlanetExplorer","satellite","ESA","Sentinel-2","MICG",NA
+"422",12,1,341.63,1024,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","MICG",NA
+"423",12,2,357.63,1017,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","MICG",NA
+"424",NA,NA,NA,NA,NA,NA,30,20190328,"imagery","PlanetExplorer","satellite","USGS","Landsat 8","MICG",NA
