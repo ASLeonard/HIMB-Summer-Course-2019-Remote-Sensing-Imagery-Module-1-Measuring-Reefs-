@@ -1,0 +1,58 @@
+import pandas
+import seaborn as sns
+import matplotlib.pyplot as plt
+import numpy as np
+import scipy.stats
+
+def loadData(file_):
+    return pandas.read_csv(open(file_,'r'))
+
+def plotResolutionBias(df):
+    f,ax = plt.subplots()
+    sns.swarmplot(x='imagery_resolution_m',y='perimeter_m',hue='reef_no', data=df,ax=ax,size=8)
+
+    for reef in (12,16,19):
+        ax.axhline(np.mean(df.loc[(df['reef_no']==reef) & (df['method']=='imagery')]['perimeter_m']),lw=1,c='darkgray',ls='--',label='Satellite average' if reef==12 else None)
+        ax.axhline(np.mean(df.loc[(df['reef_no']==reef) & (df['method']=='field')]['perimeter_m']),lw=2,c='dodgerblue',label='Field average' if reef==12 else None)
+    plt.legend(title='Reefs')
+    plt.title('Estimation bias by resolution')
+    plt.show(block=False)
+
+def plotObserverBias(df):
+    f, ax = plt.subplots()
+    observers=('AC', 'ASL', 'MICG', 'NH', 'SF', 'TJQ')
+    full_data=[]
+    for reef in (12,16,19):
+        for obs in observers:
+            mean = np.mean(df.loc[(df['observer']==obs) & (df['reef_no']==reef) & (df['method']=='imagery')]['perimeter_m'])
+            vals = np.array(df.loc[(df['observer']==obs) & (df['reef_no']==reef) & (df['method']=='imagery')]['perimeter_m'])
+            residues = vals - mean
+            for res in residues:
+                full_data.append({'reef':reef,'obs':obs, 'res':res})
+           # plt.scatter([observers.index(obs)]*len(residues),residues)
+        #plot.scatter()
+    dq=pandas.DataFrame(full_data)
+    sns.violinplot(x='obs',y='res',hue='reef',data=dq,palette='pastel')
+    ax.axhline(0,lw=2,ls='--',c='k')
+    plt.title('Observer Residues by Reef')
+    plt.show(block=False)
+    ##residues
+
+def plotCorrelation(df):
+    for reef in (12,16,19):
+        data = df.loc[df['platform']=='PlanetExplorer']
+        res=[]
+        for j,i in data.iterrows():
+            if np.isnan(i[3]):
+                continue
+            res.append((i[3]**2/(3.14*4))/i[4])
+
+    plt.scatter(res,[1]*len(res))
+    plt.show(block=False)
+
+def doStats(df):
+    for reef in (16,19):
+        imagery = np.array(df.loc[(df['reef_no']==reef) & (df['method']=='imagery')]['perimeter_m'])
+        field = np.array(df.loc[(df['reef_no']==reef) & (df['method']=='field')]['perimeter_m'])
+
+        print('Reef size: {}, p_value = {}'.format(reef,scipy.stats.ttest_ind(imagery,field,equal_var=False, nan_policy='omit')[1]))
