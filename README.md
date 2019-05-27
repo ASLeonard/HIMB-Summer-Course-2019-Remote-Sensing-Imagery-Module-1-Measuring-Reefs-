@@ -17,4 +17,4 @@ The data collected here is from rotation group C. As discussed in the report, re
 
 #### Report
 
-The report can be found (here)[report.md], and contains the analysis implementation and some surrounding discussion.
+The report can be found [here](report.md), and contains the analysis implementation and some surrounding discussion.
